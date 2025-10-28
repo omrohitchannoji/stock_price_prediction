@@ -130,10 +130,7 @@ The web app provides **6 interactive tabs**:
 4. Select `stock_forecasting.py` as the main file.
 5. Deploy 🚀  
 
-Your app will be live at:  
-```
-https://yourusername-stock-forecasting.streamlit.app/
-```
+
 
 ### 🤗 Hugging Face Spaces
 Alternatively, deploy easily using **Hugging Face Spaces**:
@@ -141,7 +138,12 @@ Alternatively, deploy easily using **Hugging Face Spaces**:
 2. Create a new Space → Select **Streamlit**
 3. Upload your project files
 4. Done ✅
+5. 
+Your app will be live at:  
+```
+https://huggingface.co/spaces/Omrohit/stock-price-forecasting
 
+```
 ---
 
 ## 💡 Future Enhancements
@@ -156,8 +158,8 @@ Alternatively, deploy easily using **Hugging Face Spaces**:
 
 **Omrohit Channoji**  
 📍 Data Science & AI Enthusiast  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-🐙 [GitHub](https://github.com/yourusername)
+🔗 [LinkedIn](https://www.linkedin.com/in/omrohit/)  
+🐙 [GitHub](https://github.com/omrohitchannoji)
 
 ---
 
